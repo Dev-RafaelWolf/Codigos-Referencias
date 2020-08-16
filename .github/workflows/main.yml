@@ -1,0 +1,5 @@
+uses: wescran/commit-issue-action@v1
+with:
+  sourceRepo: 'git@github.com:public-apis/public-apis.git'
+  targetRepo: 'https://github.com/Dev-RafaelWolf/Codigos-Referencias/'
+  issueLabels: 'Type: Maintenance, Status: Available'
